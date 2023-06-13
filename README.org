@@ -1,0 +1,10 @@
+* trivial-extract
+
+Extract compressed files painlessly.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/eudoxia0/trivial-extract.git   |
+| commit  | 320a0bd  |
+| systems | trivial-extract |
+|---------+-------------------------------------------|
+
