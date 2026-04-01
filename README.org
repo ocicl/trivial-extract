@@ -8,3 +8,4 @@ Extract compressed files painlessly.
 | systems | trivial-extract |
 |---------+-------------------------------------------|
 
+ 
